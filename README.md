@@ -6,7 +6,7 @@ val erokhins = developer {
     about {
         name = "Stanislav Erokhin"
         company = JetBrains
-        role = Development_Lead
+        role = ex_Development_Lead
     }
     tech("Compatibility", "Type inference")
     links {
